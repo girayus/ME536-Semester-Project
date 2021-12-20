@@ -1,4 +1,7 @@
 # ME536-Semester-Project
+
+Predicting the unexpected
+
 Scripts are provided in the *project* folder.
 
 *video_animate* folder includes simulation scripts and example simulation videos.
